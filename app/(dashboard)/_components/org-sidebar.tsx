@@ -66,7 +66,7 @@ export const OrgSidebar = () => {
                     </Link>
                 </Button>
                 <Button asChild
-                size={"lg"}
+                size={"lg"}aaa
                 variant={favorites ? "secondary" : "ghost"}
                 className="font-normal justify-start px-2 w-full">
                     <Link href={{
