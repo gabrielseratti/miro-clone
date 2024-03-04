@@ -54,7 +54,7 @@ export const OrgSidebar = () => {
                         }
                     }
                 }}
-            />s
+            /> 
             <div className="space-y-1 w-full">
                 <Button asChild
                 size={"lg"}
